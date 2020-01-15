@@ -8,5 +8,5 @@ I built models to determine the required number of Drones and every Drone’s in
 
 <img src="https://raw.githubusercontent.com/zcczhang/Drone-Light-Show/master/Images/dragons.png" height = "500"><br>
 
-<img src="https://raw.githubusercontent.com/zcczhang/Drone-Light-Show/master/Images/wheels.png" height="560">
+<img src="https://raw.githubusercontent.com/zcczhang/Drone-Light-Show/master/Images/wheels.png" height="760">
 </div>
