@@ -1,7 +1,7 @@
 % code of drwa complicated graph
 clear
 clc
-A=imread('/Users/apple/Desktop/High School/HiMCM/HiMCM 2017 A/Images/dragon.png');
+A=imread('https://raw.githubusercontent.com/zcczhang/Drone-Light-Show/master/Images/Charles.png');
 A(find(A<150))=1;
 A(find(A>=150))=0;
 A=double(A);
